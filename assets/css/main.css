@@ -2051,12 +2051,13 @@ input, select, textarea {
 			}
 
 			.main.style3.primary {
-				background: #ffffff;
-			}
-
-			.main.style3.secondary {
-				background: #f5f6f7;
-			}
+				background: url("images/overlay.png"), url("../../images/WdXsXrFVhis.jpg");
+				background-size: 256px 256px, cover;
+				background-attachment: fixed, fixed;
+				background-position: top left, bottom center;
+				background-repeat: repeat, no-repeat;
+				color: #e5e6e7;
+			}			
 
 		.main.dark {
 			color: #181717;
