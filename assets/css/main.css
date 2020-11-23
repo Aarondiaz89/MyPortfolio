@@ -644,8 +644,8 @@ input, select, textarea {
 					padding: 1.5em 1.25em 1.5em 1.25em;
 					background-color: rgba(255, 255, 255, 0.9);
 				}
-
 		}	
+		
 
 /* Button */
 
@@ -2265,6 +2265,7 @@ input, select, textarea {
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+		font-size: large;
 	}
 
 /* One */
@@ -2283,6 +2284,8 @@ input, select, textarea {
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+		font-size: large;
+		font-size: large;
 	}
 /* Three */
 
@@ -2298,6 +2301,7 @@ input, select, textarea {
 	#contact {
 		overflow: hidden;
 		padding-bottom: 0;
+		font-size: large;
 	}
 
 		#contact .box {
